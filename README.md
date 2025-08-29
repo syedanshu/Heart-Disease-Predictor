@@ -13,6 +13,14 @@ It uses the [Kaggle Heart Disease dataset](https://www.kaggle.com/datasets/redwa
 heart_disease_predictor.ipynb   # Main notebook with training + evaluation
 README.md                       # Documentation
 ```
+⚙️ Installation
+
+Clone the repository: git clone https://github.com/your-username/Disease_Detector.git cd Disease_Detector
+
+Create and activate a virtual environment (recommended): python -m venv venv source venv/bin/activate # On Linux/Mac venv\Scripts\activate # On Windows
+
+Install dependencies: pip install -r requirements.txt
+--- 
 
 ## ⚙️ Models Implemented
 
@@ -93,6 +101,7 @@ These are strong indicators of heart disease.
 4. Explore results and feature importance charts.
 
 ---
+
 
 
 
