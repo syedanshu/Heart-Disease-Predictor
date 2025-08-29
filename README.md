@@ -94,12 +94,8 @@ These are strong indicators of heart disease.
 
 ---
 
-## ✅ Future Improvements
 
-* Try more models: XGBoost, LightGBM, Neural Networks.
-* Apply hyperparameter tuning (GridSearchCV / RandomizedSearchCV).
-* Deploy as a **Flask/Django web app** or with **Streamlit**.
 
----
+
 
 
